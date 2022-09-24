@@ -1,5 +1,6 @@
-- 😵‍💫 Ich heiße __*Iggy*__
-- ⌨️ I like boards and printing, and printed boards
-- ☠️ I’m a CS undergrad
-- 🤨 I’m looking to collaborate on... stuff
+- 🗿 I am __*Iggy*__
+- ⌨️ I like boards and printing, and printed boards.
+- 🧮 I love assembly!
+- ☠️ I’m an InfoSec/CS undergrad.
+- 🤨 I’m looking to collaborate on... anything!
 - 📫 ~~How to reach me ...~~ I will reach you myself 😈
