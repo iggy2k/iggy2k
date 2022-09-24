@@ -1,5 +1,5 @@
 - 🗿 I am __*Iggy*__
-- ⌨️ I like boards and printing, and printed boards.
+- ⌨️ I like boards, circuits, and printing... and printed circuit boards.
 - 🧮 I love assembly!
 - ☠️ I’m an InfoSec/CS undergrad.
 - 🤨 I’m looking to collaborate on... anything!
